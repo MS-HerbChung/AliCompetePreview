@@ -147,7 +147,7 @@ Azure [异地冗余存储](https://docs.azure.cn/zh-cn/storage/common/storage-re
 
 #### 阿里云块存储及Azure磁盘存储
 
-用于Azure虚拟机的持久性数据存储，将利用[磁盘存储](https://docs.azure.cn/zh-cn/virtual-machines/linux/about-disks-and-vhds)来完成。这项功能与阿里云提供的块存储基本相同。另外，Azure的虚拟机还提供了一个额外的[临时存储磁盘](https://blogs.msdn.microsoft.com/mast/2013/12/06/understanding-the-temporary-drive-on-windows-azure-virtual-machines/)，能够完成了低延迟的读写操作。
+用于Azure虚拟机的持久性数据存储，将利用[磁盘存储](https://docs.azure.cn/zh-cn/virtual-machines/linux/about-disks-and-vhds)来完成。这项功能与阿里云提供的块存储基本相同。另外，Azure的虚拟机还提供了一个额外的[临时存储磁盘](https://docs.azure.cn/zh-cn/virtual-machines/linux/about-disks-and-vhds#temporary-disk)，能够完成了低延迟的读写操作。
 
 高性能的磁盘读写，可以透过[Azure高级存储](https://docs.azure.cn/zh-cn/storage/common/storage-premium-storage)来实现。这跟阿里云提供的SSD云盘大致相同。
 
