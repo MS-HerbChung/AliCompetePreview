@@ -12,9 +12,9 @@
 
 ## 概览
 
-如同阿里云，Azure的服务建立在一系列的计算、存储、数据库以及网络服务。在许多面向中，两个平台提供基本相同的产品及服务。阿里云与Azure都能让你建立高可用的解决方案，不论是使用Windows或是Linux。因此，如果你是个开源或是Linux的使用者，两个平台都能满足你的需求。
+如同阿里云，Azure的服务建立在一系列的计算、存储、数据库以及网络服务。在许多面向中，两个平台提供基本相同的产品及服务。阿里云与Azure都能让你建立高可用的解决方案，不论是使用Windows或是Linux。因此，如果你是开源或是Linux的使用者，两个平台都能满足你的需求。
 
-虽然两个平台都提供相似的功能，在资源的使用与管理上却有不同的设计。在许多的功能与解决方案设计中，无法有完全一对一的关系，有些服务也只在一个平台中提供。请参阅[Azure与阿里云的服务对照表](https://github.com/MS-HerbChung/AliCompetePreview/blob/master/Azure%20for%20Aliyun%20-%20Service%20Comparison.md)。
+虽然两个平台都提供相似的功能，在资源的使用与管理上却有不同的设计。在部分的功能与解决方案设计中，无法有完全一对一的关系，有些服务也只在一个平台中提供。请参阅[Azure与阿里云的服务对照表](https://github.com/MS-HerbChung/AliCompetePreview/blob/master/Azure%20for%20Aliyun%20-%20Service%20Comparison.md)。
 
 ## 账户与订阅
 
