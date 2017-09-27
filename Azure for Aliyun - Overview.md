@@ -66,14 +66,11 @@ Azure提供几种方式管理你的资源：
 
 -   [REST API](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-rest-api)：Azure Resource Manager REST API提供一个使用程式语言存取的接口，支持绝大多数Azure的服务。
 
--   [命令行](https://docs.azure.cn/zh-cn/azure-resource-manager/xplat-cli-azure-resource-manager)：
-    Azure CLI提供命令行接口的工具，可用于创建及管理Azure的资源。Azure CLI同时是一个跨平台的工具，可选择适合的版本[下载](https://github.com/azure/azure-xplat-cli)。
+-   [命令行](https://docs.azure.cn/zh-cn/azure-resource-manager/xplat-cli-azure-resource-manager)：Azure CLI提供命令行接口的工具，可用于创建及管理Azure的资源。Azure CLI同时是一个跨平台的工具，可选择适合的版本[下载](https://github.com/azure/azure-xplat-cli)。
 
--   [PowerShell](https://docs.azure.cn/zh-cn/azure-resource-manager/powershell-azure-resource-manager)：
-    PowerShell中的Azure模组，允许你透过脚本执行自动化的管理任务。PowerShell可以在Windows, Linux及MAC上运行，可选择适合的版本[下载](https://github.com/PowerShell/PowerShell)。
+-   [PowerShell](https://docs.azure.cn/zh-cn/azure-resource-manager/powershell-azure-resource-manager)：PowerShell中的Azure模组，允许你透过脚本执行自动化的管理任务。PowerShell可以在Windows, Linux及MAC上运行，可选择适合的版本[下载](https://github.com/PowerShell/PowerShell)。
 
--   [模板](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-create-first-template)：
-    Azure Resource Manager模板提供JSON文件为基础的操作方式，类似于阿里云的资源编排。
+-   [模板](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-create-first-template)：Azure Resource Manager模板提供JSON文件为基础的操作方式，类似于阿里云的资源编排。
 
 在每个操作方式中，资源组是最基础用来管理资源的创建及调整的概念，如同阿里云资源编排的stack概念。
 
