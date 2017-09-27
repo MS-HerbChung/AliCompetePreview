@@ -72,7 +72,7 @@ Azure提供几种方式管理你的资源：
 -   [PowerShell](https://docs.azure.cn/zh-cn/azure-resource-manager/powershell-azure-resource-manager)：
     PowerShell中的Azure模组，允许你透过脚本执行自动化的管理任务。PowerShell可以在Windows, Linux及MAC上运行，可选择适合的版本[下载](https://github.com/PowerShell/PowerShell)。
 
--   [模板](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-create-first-template).
+-   [模板](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-create-first-template)：
     Azure Resource Manager模板提供JSON文件为基础的操作方式，类似于阿里云的资源编排。
 
 在每个操作方式中，资源组是最基础用来管理资源的创建及调整的概念，如同阿里云资源编排的stack概念。
