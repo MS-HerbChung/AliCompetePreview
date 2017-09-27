@@ -88,7 +88,7 @@ Azure提供几种方式管理你的资源：
 
 在阿里云中，根据区域的大小，一个区域将被分成多个可用区。一个可用区意味着在地理区域中一个物理隔离的数据中心。如果你将应用服务器部署到不同的可用区，单一可用区的硬件或是网络的故障将不会对另一个可用区的系统产生影响。
 
-在Azure中，[容错域](https://docs.azure.cn/zh-cn/virtual-machines/windows/regions-and-availability)定义了一个虚拟机的集群，在这个集群中的机器共用一个物理的电源及网络交换机。可以透过配置[可用性集](https://docs.azure.cn/zh-cn/virtual-machines/windows/regions-and-availability#availability-sets)将虚拟机分配到不同的容错域。当实例被分配同一个可用性集，Azure将分配机器到不同的容错域。如果在一个容错域中发生电源错误或是网络故障，不会影响到在可用性集里的所有机器。
+在Azure中，[容错域](https://docs.azure.cn/zh-cn/virtual-machines/windows/regions-and-availability)定义了一个虚拟机的集群，在这个集群中的机器共用一个物理的电源及网络交换机。可以透过配置[可用性集](https://docs.azure.cn/zh-cn/virtual-machines/windows/regions-and-availability#availability-sets)将虚拟机分配到不同的容错域。当实例被分配在同一个可用性集，Azure将分配机器到不同的容错域。如果在一个容错域中发生电源错误或是网络故障，不会影响到在可用性集里的所有机器。
 
 ![阿里云可用区与Azure容错域及可用性集](https://azureforaliyunexpert.blob.core.chinacloudapi.cn/images/RegionAvailabilityAzureAliyun.png "阿里云可用区与Azure容错域及可用性集")
 <br/>*阿里云可用区与Azure容错域及可用性集*
