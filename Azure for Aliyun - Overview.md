@@ -268,7 +268,7 @@ Azure提供站点到站点的专线连结，称为[ExpressRoute](https://docs.az
 #### 邮件及短信服务
 
 阿里云提供邮件推送及短息服务作为通知或营销的沟通方式。在Azure上，必须使用第三方的服务，例如
-[Sendgrid](https://sendgrid.com/partners/azure/)或是[SendCloud](http://www.sendcloud.net/)。
+[Sendgrid](https://sendgrid.com/partners/azure/)。
 
 #### 阿里云消息队列、消息服务及Azure队列存储、服务总线
 
