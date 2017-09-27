@@ -302,7 +302,7 @@ Azure提供了许多产品及服务用来搜集、整理、分析及可视化大
 
 ## 后续步骤
 
--   [Azure与阿里云的服务对照表](https://aka.ms/azure4aws-services)
+-   [Azure与阿里云的服务对照表](https://github.com/MS-HerbChung/AliCompetePreview/blob/master/Azure%20for%20Aliyun%20-%20Service%20Comparison.md)
 
 -   [互动式的Azure平台全览](http://azureplatform.azurewebsites.net/)
 
