@@ -48,7 +48,7 @@ Azure的服务可以透过多种选项购买，依据客户的大小或需求而
 
 在Azure中的“资源”与阿里云的代表意义基本相同，任何计算的实例、存储的物件、网络设备或其他类型的服务你可以透过平台创建、配置及管理。
 
-Azure的资源能被创建及管理透过两种模式： Azure Resource Manger以及经典部署，可参阅[了解部署模型和资源状态](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-deployment-model)了解两种模式的不同。新的资源将使用Azure Resource Manager的方式进行部署。
+Azure的资源能被创建及管理透过两种模式：Azure Resource Manger以及经典部署，可参阅[了解部署模型和资源状态](https://docs.azure.cn/zh-cn/azure-resource-manager/resource-manager-deployment-model)了解两种模式的不同。新的资源将使用Azure Resource Manager的方式进行部署。
 
 ### 资源组
 
