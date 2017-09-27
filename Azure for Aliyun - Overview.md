@@ -18,7 +18,7 @@
 
 ## 账户与订阅
 
-Azure的服务可以透过多种选项购买，依据客户的大小或需求而有所差异。请参阅[价格概览](https://www.azure.cn/pricing/overview/)了解更多细节。
+Azure的服务可以透过多种选项购买，依据客户的大小或需求而有所差异。请参阅[Azure 定价](https://www.azure.cn/pricing/overview/)了解更多细节。
 
 [Azure订阅](https://www.azure.cn/support/faq/)是一个资源的集合，同时能够指定管理员作账务及权限的管理。与阿里云不同的是，在阿里云账户下的资源是与该账户进行绑定，而Azure的订阅与账户是独立的，可以随时对资源进行移动及重新指定管理员。
 
