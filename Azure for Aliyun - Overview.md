@@ -1,6 +1,6 @@
-# 关于Azure的账户、平台及服务的介绍——给阿里云的使用者
+# 关于Azure的账户、平台及服务的介绍（含阿里云相关内容）
 
-此篇文章旨在帮助阿里云的专家了解关于Azure的基础知识，包含账户、平台及服务。在文章中也将重点比较阿里云与Azure平台的主要异同之处。
+此篇文章旨在帮助广大用户了解关于Azure的基础知识，包含账户、平台及服务。在文章中也将重点介绍阿里云与Azure平台的主要异同之处。
 
 你将学习到:
 
@@ -8,7 +8,12 @@
 * Azure有哪些可用的解决方案
 * Azure与阿里云提供的服务有哪些不同
 
- Azure与阿里云在设计云端平台与开发云服务各自独立，因此在各个主要的面向中都有一些差距。
+Azure与阿里云在设计云端平台与开发云服务各自独立，因此在各个主要的面向中都有一些不同。
+
+>注意：
+>
+>下文对Azure与阿里云的介绍均以本文发布时间为准。
+
 
 ## 概览
 
@@ -36,7 +41,7 @@ Azure的服务可以透过多种选项购买，依据客户的大小或需求而
 
 在订阅的层级之下，使用者的角色和给别使用者的权限可以被分配到特定的资源，如同阿里云的访问控制。在Azure中，所有的使用者都将连结到一个Azure Active Directory的账号。
 
-如同阿里云的账户，订阅有默认的配额及使用上限。请参阅[Azure 订阅和服务限制、配额和约束](https://docs.azure.cn/zh-cn/azure-subscription-service-limits)了解完整的清单。这些限制可根据需求增加到上限，可以透过[在线提交工单](https://www.azure.cn/support/support-ticket-form/?l=zh-cn)提交需求。 
+如同阿里云的账户，订阅有默认的配额及使用上限。请参阅[Azure 订阅和服务限制、配额和约束](https://docs.azure.cn/zh-cn/azure-subscription-service-limits)了解完整的清单。这些默认限制可根据需求增加到上限，可以透过[在线提交工单](https://www.azure.cn/support/support-ticket-form/?l=zh-cn)提交需求。 
 
 ### 了解更多
 
@@ -140,8 +145,6 @@ Azure [异地冗余存储](https://docs.azure.cn/zh-cn/storage/common/storage-re
 -   [Azure虚拟机大小(Windows)](https://docs.azure.cn/zh-cn/virtual-machines/windows/sizes)
 
 -   [Azure虚拟机大小(Linux)](https://docs.azure.cn/zh-cn/virtual-machines/linux/sizes)
-
-跟阿里云以小时计费不同的是，Azure的虚拟机是以分钟计费的。
 
 同时，如同阿里云的保留实例计价模式，Azure也提供了预付费实例的计价模式。
 
