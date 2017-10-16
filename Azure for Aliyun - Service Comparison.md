@@ -13,7 +13,7 @@
 
 作为云服务平台的领导厂商，Azure与阿里云分别提供了兼具深度及广度的服务与功能，覆盖全球各地。许多客户会选择同时使用两个平台，主要目的是有更多的选择及弹性，同时降低风险及对单一平台多依赖。许多服务提供商或是软件开发商也在两个平台都建立了解决方案，覆盖更多的客户及云计算市场。
 
-关于Azure 概述，请参阅[关于Azure的账户、平台及服务的介绍——给阿里云的使用者（含阿里云相关内容）](https://github.com/MS-HerbChung/AliCompetePreview/blob/master/Azure%20for%20Aliyun%20-%20Overview.md)。
+关于Azure 概述，请参阅[关于Azure的账户、平台及服务的介绍（含阿里云相关内容）](https://github.com/MS-HerbChung/AliCompetePreview/blob/master/Azure%20for%20Aliyun%20-%20Overview.md)。
 
 
 ## 市场
